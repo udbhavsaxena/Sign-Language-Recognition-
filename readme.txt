@@ -1,4 +1,4 @@
-Authors: Udbhav Saxena and Adikavya Gupta
+Authors: Udbhav Saxena 
 Course: CSE676 - Introduction To Deep Learning
 Instructor: Prof. Changyou Chen
 Email: udbhavsa@buffalo.edu 
